@@ -1,2 +1,3 @@
 # rhe-appimage
-AppImage para o aplicativo RHE
+Este repositório contem o build script para o pacote AppImage do aplicativo
+do RHE (Recursos Humanos do Estado do RS)
